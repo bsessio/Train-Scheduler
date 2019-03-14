@@ -7,6 +7,8 @@ Either you may use the helpful information loaded on the page when you first vis
 
 Be sure to enter all fields, or it will not accept your submission! Click **Submit**, and the page will give you a new train manifest.
 
+You can find the deployed site at https://bsessio.github.io/Train-Scheduler/
+
 ## Authors
 
 * **Bowie Sessions** - *Initial work* 
